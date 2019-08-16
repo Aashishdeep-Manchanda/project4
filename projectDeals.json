@@ -1,0 +1,23 @@
+{
+	"Name": "A home mushroom farm",
+	"Price": "$22.85",
+	"Description": "Now you can grow your own fungus right at home—and not in between your toes!",
+	"Features": "Organic mushroom",
+	"image": "mushroom.jpg"
+},
+
+{
+	"Name": "Dancing with Cats",
+	"Price": "$13.22",
+	"Description": "If you truly love your pet, you’ll do anything for them, or with them—including interpretive dance, according to this book.",
+	"Features": "From the creators of the international Bestseller",
+	"image": "cats.jpg"
+},
+
+{
+	"Name": "A realistic dog pillow",
+	"Price": "$14.99",
+	"Description": "Just because your building doesn’t allow pets doesn’t mean you can’t enjoy the company of a furry friend—albeit a not-so-animated one.",
+	"Features": "Two large pillows",
+	"image": "dog.jpg"
+},
